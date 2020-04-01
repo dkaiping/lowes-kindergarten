@@ -22,4 +22,4 @@ We can have Tables
 ## Extra Learning
 Or Links to videos on youtube (click on image to open in youtube): 
 
-[![Bill Nye](http://img.youtube.com/vi/vSR2ZG0yjP8/0.jpg)]
+[![Bill Nye](http://img.youtube.com/vi/vSR2ZG0yjP8/0.jpg)](https://youtu.be/vSR2ZG0yjP8)
