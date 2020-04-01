@@ -21,4 +21,4 @@ We can have Tables
 
 Or Links to videos on youtube: 
 
-[![Bill Nye](http://img.youtube.com/vi/vSR2ZG0yjP8/0.jpg)](https://youtu.be/vSR2ZG0yjP8)](Bill Nye the Science Guy)
+[![Bill Nye](http://img.youtube.com/vi/vSR2ZG0yjP8/0.jpg)](https://youtu.be/vSR2ZG0yjP8)(Bill Nye the Science Guy)
