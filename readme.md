@@ -1,4 +1,4 @@
-#Welcome to Mrs. Lowes Kindergarden class schedule
+# Welcome to Mrs. Lowes Kindergarden class schedule
 
 Assignments and links for the week of of April 6th
 
