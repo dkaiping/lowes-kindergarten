@@ -1,0 +1,47 @@
+# =========================
+# IDE Files
+# =========================
+
+# Eclipse
+.classpath
+.project
+.settings/
+.externalToolBuilders/
+*.launch
+*.tern-project
+*.ejbdeploy
+*.springBeans
+
+### STS ###
+.apt_generated
+.factorypath
+
+
+# Intellij
+out/
+.idea/
+lib/
+*.iml
+*.iws
+*.ipr
+
+# =========================
+# Build Files
+# =========================
+
+# Maven
+log/
+target/
+
+# =========================
+# Operating System Files
+# =========================
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
