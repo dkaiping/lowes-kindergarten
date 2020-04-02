@@ -10,4 +10,3 @@
    Some information you want to provide  
 * [Friday](./Week-04-06-2020/friday.md)   
    Some information you want to provide  
-______
