@@ -1,7 +1,7 @@
 ---
 title: Mrs. Lowe's Kindergarten class weekly planning
 ---
-# Assignments and links for the week of of April 6th 
+## Assignments and links for the week of of April 6th 
 * [Monday](./Week-04-06-2020/monday.md)  
    Some information you want to provide
    

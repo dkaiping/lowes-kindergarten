@@ -1,7 +1,7 @@
 ---
 title: Monday April 6th
 ---
-# Monday April 6th
+## Monday April 6th
 > You can add some message to the class for the day here
 
 We can provide a lot of information here in different paragraphs
